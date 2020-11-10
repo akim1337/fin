@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "Акимба",
-    "titleTemplate": "%s читать онлайн и без регистрации",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "titleTemplate": "%s | ты не одинок",
+    "description": "Блок о том, что все мы варимся в одном бульоне",
     "siteUrl": "https://akimba.ru/",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
