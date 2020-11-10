@@ -39,19 +39,19 @@ const Contact = ({data}) => {
         <form className="contact-form" action="/thanks" name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
           <input type="hidden" name="form-name" value="contact" />
           <p>
-            <label>Name<input type="text" name="name" required /></label>   
+            <label>Имя<input type="text" name="name" required /></label>   
           </p>
           <p>
             <label>Email<input type="email" name="email" required /></label>
           </p>
           <p>
-            <label>Subject<input type="text" name="subject" required /></label>   
+            <label>Сам не знаю для чего это поле?<input type="text" name="subject" required /></label>   
           </p>
           <p>
-            <label>Message<textarea name="message" required ></textarea></label>
+            <label>Месседж<textarea name="message" required ></textarea></label>
           </p>
           <p className="text-align-right">
-            <button className="button" type="submit">Send Message <span className="icon -right"><RiSendPlane2Line/></span></button>
+            <button className="button" type="submit">Отправить <span className="icon -right"><RiSendPlane2Line/></span></button>
           </p>
         </form>
       </div>
