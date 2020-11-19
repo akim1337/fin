@@ -1,12 +1,12 @@
 {
   "meta": {
     "title": "Акимба",
-    "titleTemplate": "%s | ты не одинок",
+    "titleTemplate": "%s | дело табак",
     "description": "Блог о том, что все мы варимся в одном бульоне",
     "siteUrl": "https://akimba.ru/",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": ""
   },
   "ga": "UA-183550450-1"
 }
